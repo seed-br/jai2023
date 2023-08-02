@@ -15,8 +15,41 @@ Christina von Flach (IC-UFBA), Joenio Costa (Universidade Federal da Bahia (UFBA
 
 <!-- -------------------------------- -->
 <section>
-### Ciência Aberta
+### Agenda
 
+1. Parte 1
+1. Parte 2
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Software de Pesquisa
+
+Def.
+
+<small class="cite">
+ALLEN, A. et al. **Engineering academic software (dagstuhl perspectives workshop
+16252)**. In: Dagstuhl Manifestos. [S.l.]: Schloss Dagstuhl-Leibniz-Zentrum fuer
+Informatik, 2017.
+</small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Software de Pesquisa
+
+Você desenvolve software durante a sua pesquisa?
+O software é um dos resultados de sua pesquisa?
+O software é usado durante a pesquisa?
+
+Exemplos.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+<img src="/files/ciencia-aberta-arquitetura.png" width="700" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
