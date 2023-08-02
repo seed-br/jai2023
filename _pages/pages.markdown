@@ -4,3 +4,5 @@ layout: page
 ---
 
 * [Slides](/slides)
+* [Sobre](/sobre)
+

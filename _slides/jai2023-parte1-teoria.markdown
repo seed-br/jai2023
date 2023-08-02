@@ -36,6 +36,14 @@ Informatik, 2017.
 
 <!-- -------------------------------- -->
 <section>
+> 56% dos pesquisadores de todas as áreas do Reino Unido desenvolvem software de pesquisa.
+<small class="cite">
+HETTRICK, S. et al. **UK Research Software Survey 2014**. 2014.
+</small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Software de Pesquisa
 
 Você desenvolve software durante a sua pesquisa?
@@ -86,6 +94,17 @@ Exemplos.
 
 <!-- -------------------------------- -->
 <section>
+---
+
+> software científico
+> software acadêmico
+> software de pesquisa
+
+---
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Software Technical Sustainability
 
 Concerned with the long-term usage of software and its capacity to evolve with
@@ -111,4 +130,24 @@ CAPILUPPI, A. et al. 2007.
 <section>
 
 </section>
+
+<!-- -------------------------------- -->
+<section>
+---
+
+#### Manifesto from Dagstuhl Perspectives Workshop 16252
+
+### Engineering Academic Software
+
+---
+
+> "A qualidade e a **sustentabilidade** do software de pesquisa devem ser avaliadas tanto à _priori_ quanto à _posteriori_."
+
+<small class="cite">
+ALLEN, A. et al. **Engineering academic software (dagstuhl perspectives workshop
+16252)**. In: Dagstuhl Manifestos. [S.l.]: Schloss Dagstuhl-Leibniz-Zentrum fuer
+Informatik, 2017.
+</small>
+</section>
+
 
