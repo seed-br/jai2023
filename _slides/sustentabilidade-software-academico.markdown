@@ -738,20 +738,3 @@ in research software**. F1000Research, v. 6, p. 876, jun. 2017.
 * Um framework para avaliação do fenômeno DCD em um domínio de aplicação específico
 </section>
 -->
-
-<!-- -------------------------------- -->
-
-<section data-background="#c4a000">
-<section>
-{% include slides_obrigado.html %}
-</section>
-<section>
-### Histórico de apresentações
-
-<small>Onde e quando esta apresentação foi realizada</small>
-
-<ul style="font-size: 24px">
-  <li>19 Dezembro 2017, UFBA DCC, Salvador, defesa</li>
-</ul>
-</section>
-</section>

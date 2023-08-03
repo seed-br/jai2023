@@ -348,18 +348,3 @@ Carole Goble. 2014. **Better software, better research**.
 * Why some tools in closedown stage continue to be cited?
 * The results found regarding academic software recognition are similar to general software engineering publications?
 </section>
-
-<section data-background="#c4a000">
-<section>
-{% include slides_obrigado.html %}
-</section>
-<section>
-### Histórico de apresentações
-
-<small>Onde e quando esta apresentação foi realizada</small>
-
-<ul style="font-size: 24px">
-  <li>21 Setembro 2018, USP-ICMS, São Carlos, SP, CBSOFT SBES 2018</li>
-</ul>
-</section>
-</section>
