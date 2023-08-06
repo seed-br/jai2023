@@ -9,7 +9,9 @@ theme: simple
 ## Princípios e Práticas para Sustentabilidade do Software de Pesquisa
 ### Parte 2
 
-Christina von Flach (IC-UFBA), Joenio Costa (Universidade Federal da Bahia (UFBA)), Daniela Feitosa (UFBA)
+Apresentadoras:
+
+Christina von Flach (IC-UFBA), Daniela Feitosa (PGCOMP-UFBA)
 
 </section>
 
