@@ -220,5 +220,3 @@ ALLEN, A. et al. **Engineering academic software (dagstuhl perspectives workshop
 Informatik, 2017.
 </small>
 </section>
-
-
