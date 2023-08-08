@@ -66,7 +66,6 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 
 <img src="/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
-
 </section>
 
 <!-- -------------------------------- -->
@@ -252,7 +251,7 @@ Resultados digitais da pesquisa, como publicações científicas e conjuntos de 
 <section>
 ### Software na Ciência
 
-Instituições, grupos e pesquisadores reconhecem que todo o software de- senvolvido no contexto de uma pesquisa científica deve ser considerado um **resultado de pesquisa** [Jay et al. 2021]
+Instituições, grupos e pesquisadores reconhecem que todo o software desenvolvido no contexto de uma pesquisa científica deve ser considerado um **resultado de pesquisa** [Jay et al. 2021]
 
 - Software como Instrumento
 - Software como Contribuição científica
@@ -311,7 +310,9 @@ B. Penzenstadler and H. Femmer. 2013.
 <!-- -------------------------------- -->
 <section>
 ### Sustentabilidade do Software 
+
 A preocupação com a longevidade do software estende-se ao atributo de manutenibilidade, e ao modelo e processo de desenvolvimento de software adotados, que podem influenciar atributos relacionados à sustentabilidade.
+
 </section>
 
 <!-- -------------------------------- -->
@@ -419,8 +420,6 @@ A avaliação de FAIRness do software de pesquisa pode ser definida como um proc
 <small class="cite">
 M. Barker et al. (2022). **Introducing the FAIR Principles for Research Software**. Scientific Data, 9(622). 
 </small>
-</section>
-
 </section>
 
 <!-- -------------------------------- -->
