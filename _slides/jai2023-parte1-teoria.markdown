@@ -30,8 +30,8 @@ HETTRICK, S. et al. **UK Research Software Survey 2014**, 2014.
 
 <!-- -------------------------------- -->
 <section>
-### Software Acadêmico
-### Definição
+### Software **Acadêmico** 
+### _Academic Software_
 
 Todo software usado para coletar, processar ou analisar resultados de pesquisas
 com intenção de publicação na literatura acadêmica, incluindo desde protótipos
@@ -47,8 +47,8 @@ Informatik, 2017.
 
 <!-- -------------------------------- -->
 <section>
-### Software de Pesquisa
-### Definição
+### Software de **Pesquisa** 
+### _Research Software_
 
 Todo software desenvolvido pelos próprios cientistas no _contexto da pesquisa_,
 com recomendação para que, ao lado dos conjuntos de dados da pesquisa, 
@@ -62,11 +62,10 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <!-- -------------------------------- -->
 <section>
 ### Software de Pesquisa
+### Analizo
 
-+ Analizo
-+ Parcels
-+ Mosyn
-+ FlossSearch.edu
+<img src="/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
+
 
 </section>
 
@@ -93,9 +92,9 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 
 <!-- -------------------------------- -->
 <section>
-> O Software de Pesquisa desempenha um papel fundamental na Ciência Aberta
+### Software de Pesquisa e Ciência Aberta
 
-<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -117,17 +116,17 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 
 <!-- -------------------------------- -->
 <section>
-### Ciência Aberta
+### Pilares da Ciência Aberta
 
-<img src="/files/parte1/unesco-OS-pilares.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="/files/parte1/unesco-OS-pilares.png" width="500" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Ciência Aberta
+### Conhecimento Científico Aberto
 
-<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -135,14 +134,46 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Dados Abertos
 
-> Dados digitais e analógicos, tanto brutos como processados, e os metadados que os acompanham, assim como pontuações numéricas, registros textuais, imagens e sons, protocolos, códigos de análise e fluxos de trabalho que podem ser usados, reutilizados, retidos e redistribuídos abertamente por qualquer pessoa, sujeitos a reconhecimento. 
+> Dados digitais e analógicos, tanto brutos como processados, e os metadados que os acompanham, assim como pontuações numéricas, registros textuais, imagens e sons, protocolos, códigos de análise e fluxos de trabalho que podem ser usados, reutilizados, retidos e redistribuídos **abertamente** por qualquer pessoa, sujeitos a reconhecimento. 
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
+### DOI (Digital Object Identifier)
+
+Um identificador de objeto digital (DOI) é um identificador exclusivo atribuído a um conjunto de dados para garantir que os dados não sejam perdidos ou identificados incorretamente.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### DOI (Digital Object Identifier)
+
+O DOI facilita a citação e o rastreamento do impacto dos conjuntos de dados, assim como os artigos de periódicos citados. 
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Citação de dados
+A citação de dados deve ser considerada tão importante quanto a citação de artigos de periódicos e outros documentos científicos. 
+
+Em geral, uma citação de dados deve incluir nome do autor/criador, data de publicação e título do conjunto de dados, editora/organizador e DOI.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Dados Abertos e seus Incentivos 
+
+A FAPESP lançou as bases para a abertura de dados com a exigência, a partir do final de 2017, de Planos de Gestão de Dados quando da submissão de projetos.
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### Princípios FAIR para dados de pesquisa abertos
-princípios FAIR (findable, accessible, interoperable, and reusable – localizável, acessível, interoperável e reutilizável)
+
+FAIR (findable, accessible, interoperable, and reusable) 
+- localizável, acessível, interoperável e reutilizável
 </section>
 
 <!-- -------------------------------- -->
@@ -159,11 +190,22 @@ https://en.unesco.org/open-access/open-access-movement.
 <!-- -------------------------------- -->
 <section>
 ### Acesso Aberto
+<img src="/files/parte1/acesso-aberto-paywall.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+</section>
 
-> Artigos 
-+ Auto-arquivamento (RI, arXiv)
-+ Periódicos de acesso aberto (PeerJ)
-> Artefatos de pesquisa (Zenodo, Figshare)
+<!-- -------------------------------- -->
+<section>
+### Acesso Aberto
+<img src="/files/parte1/acesso-aberto-3b.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+<img src="/files/parte1/acesso-aberto-ri.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+
+- Auto-arquivamento (RI, arXiv)
+- Periódicos de acesso aberto
 
 </section>
 
@@ -190,9 +232,9 @@ https://en.unesco.org/open-access/open-access-movement.
 <section>
 ---
 
-> software científico
-> software acadêmico
-> software de pesquisa
+- software científico
+- software acadêmico
+- software de pesquisa
 
 ---
 </section>
@@ -204,27 +246,186 @@ https://en.unesco.org/open-access/open-access-movement.
 
 <!-- -------------------------------- -->
 <section>
+### Software na Ciência
+
+Resultados digitais da pesquisa, como publicações científicas e conjuntos de dados abertos, não podem ser visualizados ou usados sem o software apropriado.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Software na Ciência
+
+Instituições, grupos e pesquisadores reconhecem que todo o software de- senvolvido no contexto de uma pesquisa científica deve ser considerado um **resultado de pesquisa** [Jay et al. 2021]
+
+- Software como Instrumento
+- Software como Contribuição científica
+- Better software, better research
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
 <img src="/files/parte1/scientific-reputation-diagram.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
+</section>
+
+<section>
+## Sustentabilidade
+
+Um dos princípios norteadores da Ciência Aberta [UNESCO 2021].
+ > A Ciência Aberta deve se basear em práticas, serviços, infraestruturas e modelos de financiamento **de longo prazo** que garantam a participação igualitária dos indivíduos que produzem ciência originários de instituições e países menos privilegiados.
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
+## Sustentabilidade
+
+bem-estar individual - social - econômica - ambiental - viabilidade **técnica**
+de longo prazo
+<small class="cite">
+BECKER, C. et al. **The karlskrona manifesto for sustainability design**. CoRR,
+abs/1410.6968, 2014.
+</small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+Na Engenharia de Software, há duas linhas de pesquisa voltadas para Sustentabilidade que se destacam: 
+
+(i) Sustentabilidade de Software, e 
+(ii) Engenharia de Software para Sustentabilidade (SE4S). 
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Software Technical Sustainability
+### Sustentabilidade do Software 
 
-Concerned with the long-term usage of software and its capacity to evolve with
-changing conditions and requirements.
+"Concerned with the long-term usage of software and its capacity to evolve with
+changing conditions and requirements".
 
 <small class="cite">
 B. Penzenstadler and H. Femmer. 2013.
 **A Generic Model for Sustainability with Process- and Product-specific Instances**.
 </small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Sustentabilidade do Software 
+
+> Requisito composto, não-funcional, de primeira classe, abrangendo as medidas de alguns conceitos centrais de atributos de qualidade de software, incluindo, no mínimo, manutenibilidade, extensibilidade e usabilidade.
+
+<small class="cite">
+C. Venters, et al. 2021. 
+** Software Sustainability: Beyond the Tower of Babel**. 
+</small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### FAIRness
+
+O **software de pesquisa deve seguir os princípios FAIR**, considerando-se que o software também é um artefato de pesquisa digital e, como tal, deve ser facilmente localizável, acessível, interoperável e reutilizável.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+<img src="/files/parte1/tabelaFAIRness.png" style="box-shadow:0px 0px 2px white;background:white" />
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Avaliação do Software de Pesquisa
+
+(1) Sustentabilidade, direcionada a sua **longevidade**, e 
+
+(2) FAIRness (aderência aos princípios FAIR), direcionada ao **grau de abertura** (openness) do software de pesquisa.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Avaliação de Sustentabilidade
+
+A avaliação da sustentabilidade do software de pesquisa busca determinar se o mesmo é sustentável com base em **critérios relevantes para o ecossistema científico**.
+
+- Uso de atributos de qualidade ou práticas
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Nossa Avaliação de Sustentabilidade
+
+As práticas estão relacionadas a identidade e disponibilidade do software, adoção de licenças, controle de versão, documentação, estrutura do código-fonte, testes, política de contribuidores e suporte.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+<img src="/files/parte1/as16praticas-avaliacao.png" style="box-shadow:0px 0px 2px white;background:white" />
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Avaliação FAIRness
+
+A avaliação de FAIRness do software de pesquisa pode ser definida como um processo de avaliação do seu grau de aderência aos princípios FAIR (de dados abertos de pesquisa) adaptados para software de pesquisa.
+
+</section>
+
+
+<!-- -------------------------------- -->
+<section>
+### Desenvolvimento de Software de Pesquisa
+
+- 56% dos cientistas do Reino Unido envolvidos no desenvolvimento de software de pesquisa.
+
+> O desenvolvimento de software de pesquisa requer conhecimento específico sobre o domínio da pesquisa.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+> Pesquisadores que desenvolvem o seu software de pesquisa não testam ou documentam os seus projetos de software, e não seguem práticas básicas de desenvolvimento, como escrever código legível, revisar código, usar controle de versão ou testes unitários.
+
+<small class="cite">
+G. Wilson, et al. 2017. **Good enough practices in scientific computing**. 
+</small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+> O desconhecimento sobre práticas de desenvolvimento colaborativo e aberto pode causar um impacto negativo na **visibilidade do software de pesquisa**, na capacidade de ser encontrado e compartilhado [Howison and Herbsleb 2013, Katz 2014] e em sua sustentabilidade.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+
+A falta de conhecimento sobre a natureza do software, conceitos e práticas de desenvolvimento de software pode ocasionar sérios erros computacionais em conclusões centrais da literatura acadêmica, gerando retrabalho para retratar tais erros nas mais diversas áreas da Ciência.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Ciclo de Vida do Software
+
+<img src="/files/parte1/staged-model-versions.png" style="box-shadow:0px 0px 2px white;background:white" />
+
 </section>
 
 <!-- -------------------------------- -->
@@ -239,10 +440,7 @@ CAPILUPPI, A. et al. 2007.
 
 <!-- -------------------------------- -->
 <section>
-
-### Sustentabilidade
-
-A Ciência Aberta deve se basear em práticas, serviços, infraestruturas e modelos de financiamento de longo prazo que garantam a participação igualitária dos indivíduos que produzem ciência originários de instituições e países menos privilegiados. 
+### Evolução de um software de pesquisa 
 
 </section>
 
@@ -264,6 +462,8 @@ ALLEN, A. et al. **Engineering academic software (dagstuhl perspectives workshop
 Informatik, 2017.
 </small>
 </section>
+
+
 
 <!-- -------------------------------- -->
 <section>
