@@ -82,21 +82,22 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 
 <!-- -------------------------------- -->
 <section>
-### Agenda
+### Hoje
 
 1. Princípios da Ciência Aberta
-2. Software de Pesquisa Sustentável
+2. Software de Pesquisa Sustentável e FAIR
 3. Práticas para o Desenvolvimento de Software de Pesquisa Sustentável
 4. Avaliação do Software de Pesquisa
 </section>
 
-<!-- -------------------------------- -->
+<!-- -------------------------------- 
 <section>
 ### Software de Pesquisa e Ciência Aberta
 
 <img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
+-->
 
 <!-- -------------------------------- -->
 <section>
@@ -213,7 +214,7 @@ https://en.unesco.org/open-access/open-access-movement.
 <section>
 ### Pesquisa Reprodutível Aberta
 
-> “O ato de praticar Ciência Aberta e oferecer aos usuários acesso gratuito a elementos experimentais para reprodução de pesquisas”
+> “O ato de praticar Ciência Aberta e oferecer aos usuários acesso sem custos a elementos experimentais para reprodução de pesquisas”
 
 + artigo científico
 + dados de pesquisa
@@ -237,11 +238,6 @@ https://en.unesco.org/open-access/open-access-movement.
 - software de pesquisa
 
 ---
-</section>
-
-<!-- -------------------------------- -->
-<section>
-
 </section>
 
 <!-- -------------------------------- -->
@@ -294,8 +290,9 @@ abs/1410.6968, 2014.
 <section>
 Na Engenharia de Software, há duas linhas de pesquisa voltadas para Sustentabilidade que se destacam: 
 
-(i) Sustentabilidade de Software, e 
-(ii) Engenharia de Software para Sustentabilidade (SE4S). 
+(i) Sustentabilidade de Software
+ 
+(ii) Engenharia de Software para Sustentabilidade (SE4S) 
 
 </section>
 
@@ -303,13 +300,26 @@ Na Engenharia de Software, há duas linhas de pesquisa voltadas para Sustentabil
 <section>
 ### Sustentabilidade do Software 
 
-"Concerned with the long-term usage of software and its capacity to evolve with
-changing conditions and requirements".
+"Concerned with the **long-term usage** of software and its capacity to evolve with changing conditions and requirements".
 
 <small class="cite">
 B. Penzenstadler and H. Femmer. 2013.
 **A Generic Model for Sustainability with Process- and Product-specific Instances**.
 </small>
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Sustentabilidade do Software 
+A preocupação com a longevidade do software estende-se ao atributo de manutenibilidade, e ao modelo e processo de desenvolvimento de software adotados, que podem influenciar atributos relacionados à sustentabilidade.
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Engenharia de Software para Sustentabilidade (SE4S)
+
+SE4S preocupa-se com sistemas intensivos em software, como integrar a sustentabilidade em seus processos de desenvolvimento de software e apoiar a sustentabilidade ambiental na ampla variedade de domínios em que o software é implantado.
+
 </section>
 
 <!-- -------------------------------- -->
@@ -326,9 +336,33 @@ C. Venters, et al. 2021.
 
 <!-- -------------------------------- -->
 <section>
+### Software de Pesquisa Sustentável
+
+O Software de Pesquisa Sustentável deve permanecer **disponível** e **funcional** para a comunidade científica durante períodos de tempo significativos. 
+
+- Por quanto tempo? Depende da área de pesquisa, finalidade, função, frequência de uso, e da comunidade que desenvolveu o software.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
+### Software de Pesquisa Sustentável
+
+- Mudança do software de pesquisa.
+
+> A manutenção do software de pesquisa deve garantir a **confiabilidade nos resultados** gerados pelas **versões mais antigas do software**.
+
+- Alinhamento entre artigos e versões do software usadas na pesquisa.
+
+</section>
+
+<!-- -------------------------------- -->
+<section>
 ### FAIRness
 
-O **software de pesquisa deve seguir os princípios FAIR**, considerando-se que o software também é um artefato de pesquisa digital e, como tal, deve ser facilmente localizável, acessível, interoperável e reutilizável.
+> O **software de pesquisa deve seguir os princípios FAIR**.
+
+- Software também é um artefato de pesquisa digital e, como tal, deve ser facilmente localizável, acessível, interoperável e reutilizável.
 
 </section>
 
@@ -355,13 +389,15 @@ O **software de pesquisa deve seguir os princípios FAIR**, considerando-se que 
 
 A avaliação da sustentabilidade do software de pesquisa busca determinar se o mesmo é sustentável com base em **critérios relevantes para o ecossistema científico**.
 
-- Uso de atributos de qualidade ou práticas
+- Uso de atributos de qualidade ou práticas.
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
-### Nossa Avaliação de Sustentabilidade
+### _Nossa_ Avaliação de Sustentabilidade
+
+- Modelo de desenvolvimento de software livre.
 
 As práticas estão relacionadas a identidade e disponibilidade do software, adoção de licenças, controle de versão, documentação, estrutura do código-fonte, testes, política de contribuidores e suporte.
 
@@ -380,8 +416,12 @@ As práticas estão relacionadas a identidade e disponibilidade do software, ado
 
 A avaliação de FAIRness do software de pesquisa pode ser definida como um processo de avaliação do seu grau de aderência aos princípios FAIR (de dados abertos de pesquisa) adaptados para software de pesquisa.
 
+<small class="cite">
+M. Barker et al. (2022). **Introducing the FAIR Principles for Research Software**. Scientific Data, 9(622). 
+</small>
 </section>
 
+</section>
 
 <!-- -------------------------------- -->
 <section>
