@@ -64,7 +64,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 ### Software de Pesquisa
 ### Analizo
 
-<img src="/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/analizo-website.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -93,7 +93,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Software de Pesquisa e Ciência Aberta
 
-<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 -->
@@ -110,7 +110,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte1/ciencia-aberta-arquitetura.png" width="750" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/ciencia-aberta-arquitetura.png" width="750" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -118,7 +118,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Pilares da Ciência Aberta
 
-<img src="/files/parte1/unesco-OS-pilares.png" width="500" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/unesco-OS-pilares.png" width="500" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -126,7 +126,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Conhecimento Científico Aberto
 
-<img src="/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/unesco-OS-pilar1.png" width="450" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -190,19 +190,19 @@ https://en.unesco.org/open-access/open-access-movement.
 <!-- -------------------------------- -->
 <section>
 ### Acesso Aberto
-<img src="/files/parte1/acesso-aberto-paywall.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/acesso-aberto-paywall.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
 </section>
 
 <!-- -------------------------------- -->
 <section>
 ### Acesso Aberto
-<img src="/files/parte1/acesso-aberto-3b.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/acesso-aberto-3b.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
 </section>
 
 
 <!-- -------------------------------- -->
 <section>
-<img src="/files/parte1/acesso-aberto-ri.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/acesso-aberto-ri.png" width="700" style="box-shadow:0px 0px 2px white;background:white" />
 
 - Auto-arquivamento (RI, arXiv)
 - Periódicos de acesso aberto
@@ -261,7 +261,7 @@ Instituições, grupos e pesquisadores reconhecem que todo o software desenvolvi
 
 <!-- -------------------------------- -->
 <section>
-<img src="/files/parte1/scientific-reputation-diagram.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/scientific-reputation-diagram.png" width="500" style="box-shadow:0px 0px 2px gray;background:white" />
 
 </section>
 
@@ -370,7 +370,7 @@ O Software de Pesquisa Sustentável deve permanecer **disponível** e **funciona
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte1/tabelaFAIRness.png" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/tabelaFAIRness.png" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -407,7 +407,7 @@ As práticas estão relacionadas a identidade e disponibilidade do software, ado
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte1/as16praticas-avaliacao.png" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/as16praticas-avaliacao.png" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
@@ -463,13 +463,13 @@ A falta de conhecimento sobre a natureza do software, conceitos e práticas de d
 <section>
 ### Ciclo de Vida do Software
 
-<img src="/files/parte1/staged-model-versions.png" style="box-shadow:0px 0px 2px white;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/staged-model-versions.png" style="box-shadow:0px 0px 2px white;background:white" />
 
 </section>
 
 <!-- -------------------------------- -->
 <section>
-<img src="/files/parte1/staged-model-foss-cycle.png" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/parte1/staged-model-foss-cycle.png" style="box-shadow:0px 0px 2px gray;background:white" />
 
 <small class="cite">
 CAPILUPPI, A. et al. 2007.

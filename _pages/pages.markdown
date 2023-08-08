@@ -3,6 +3,6 @@ title: Páginas
 layout: page
 ---
 
-* [Slides](/slides)
-* [Sobre](/sobre)
+* [Slides]({{ site.baseurl }}/slides)
+* [Sobre]({{ site.baseurl }}/sobre)
 
