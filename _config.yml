@@ -24,6 +24,9 @@ keep_files:
   - .svn
   - javascript
 
+# Alterando de _site/ para public/ para respeitar o github pages
+destination: "docs/"
+
 collections:
   pages:
     output: true
