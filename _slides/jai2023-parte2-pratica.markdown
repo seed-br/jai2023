@@ -32,13 +32,13 @@ Daniela Feitosa (PGCOMP-UFBA)
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte2/github-logo.png" width="300">
-<img src="/files/parte2/gitlab-logo.png" width="300">
+<img src="{{ site.baseurl }}/files/parte2/github-logo.png" width="300">
+<img src="{{ site.baseurl }}/files/parte2/gitlab-logo.png" width="300">
 
-<img src="/files/parte2/bitbucket-logo.png" width="300">
-<img src="/files/parte2/launchpad-logo.png" width="300">
+<img src="{{ site.baseurl }}/files/parte2/bitbucket-logo.png" width="300">
+<img src="{{ site.baseurl }}/files/parte2/launchpad-logo.png" width="300">
 
-<img src="/files/parte2/sourceforge-logo.png" width="150">
+<img src="{{ site.baseurl }}/files/parte2/sourceforge-logo.png" width="150">
 
 </section>
 
@@ -47,7 +47,7 @@ Daniela Feitosa (PGCOMP-UFBA)
 
 https://github.com/seed-br/flosssearch
 
-<img src="/files/parte2/p1.png">
+<img src="{{ site.baseurl }}/files/parte2/p1.png">
 
 </section>
 
@@ -61,10 +61,10 @@ https://github.com/seed-br/flosssearch
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte2/git-logo.png" width="100"><br/>
+<img src="{{ site.baseurl }}/files/parte2/git-logo.png" width="100"><br/>
 
 
-<img src="/files/parte2/version-control-diagram.png" width="400">
+<img src="{{ site.baseurl }}/files/parte2/version-control-diagram.png" width="400">
 <small class="cite">
 Scott Chacon and Ben Straub. 2014. Pro Git (2nd. ed.). Apress, USA.
 </small>
@@ -76,7 +76,7 @@ Scott Chacon and Ben Straub. 2014. Pro Git (2nd. ed.). Apress, USA.
 
 Lista de modificações feitas no código-fonte ao longo do tempo (commits)
 
-<img src="/files/parte2/p2.png"  width="700">
+<img src="{{ site.baseurl }}/files/parte2/p2.png"  width="700">
 
 </section>
 
@@ -90,7 +90,7 @@ Lista de modificações feitas no código-fonte ao longo do tempo (commits)
 <!-- -------------------------------- -->
 <section>
 
-<img src="/files/parte2/software-licenses.png" width="700"><br/>
+<img src="{{ site.baseurl }}/files/parte2/software-licenses.png" width="700"><br/>
 
 </section>
 
@@ -99,7 +99,7 @@ Lista de modificações feitas no código-fonte ao longo do tempo (commits)
 
 Licença do software <em>flosssearch</em>
 
-<img src="/files/parte2/p3.png">
+<img src="{{ site.baseurl }}/files/parte2/p3.png">
 
 </section>
 
@@ -122,7 +122,7 @@ Referência vitalícia e permanente para registro de qualquer tipo de arquivo di
 
 Zenodo
 
-<img src="/files/parte2/p4.1.png"  width="600">
+<img src="{{ site.baseurl }}/files/parte2/p4.1.png"  width="600">
 
 </section>
 
@@ -130,7 +130,7 @@ Zenodo
 
 Figshare 
 
-<img src="/files/parte2/p4.2.png"  width="600">
+<img src="{{ site.baseurl }}/files/parte2/p4.2.png"  width="600">
 
 </section>
 
@@ -145,7 +145,7 @@ finalidade de seus elementos
 
 https://github.com/analizo/analizo
 
-<img src="/files/parte2/p5.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p5.png"  width="500">
 
 </section>
 
@@ -196,7 +196,7 @@ Protocolos de comunicação
 
 https://github.com/seed-br/seed.select
 
-<img src="/files/parte2/p7.1.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p7.1.png"  width="500">
 
 </section>
 
@@ -204,7 +204,7 @@ https://github.com/seed-br/seed.select
 
 https://github.com/analizo/analizo
 
-<img src="/files/parte2/p7.2.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p7.2.png"  width="500">
 
 </section>
 
@@ -218,7 +218,7 @@ https://github.com/analizo/analizo
 
 https://github.com/analizo/analizo
 
-<img src="/files/parte2/p8.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p8.png"  width="500">
 
 </section>
 
@@ -232,7 +232,7 @@ https://github.com/analizo/analizo
 
 https://github.com/analizo/analizo
 
-<img src="/files/parte2/p9.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p9.png"  width="500">
 
 </section>
 
@@ -246,7 +246,7 @@ https://github.com/analizo/analizo
 
 https://github.com/analizo/analizo
 
-<img src="/files/parte2/p10.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/p10.png"  width="500">
 
 </section>
 
@@ -260,7 +260,7 @@ https://github.com/analizo/analizo
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p11.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/p11.png"  width="400">
 
 </section>
 
@@ -274,8 +274,8 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p12.1.png"  width="400">
-<img src="/files/parte2/p12.2.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/p12.1.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/p12.2.png"  width="400">
 
 </section>
 
@@ -289,7 +289,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p13.1.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/p13.1.png"  width="400">
 
 </section>
 
@@ -297,7 +297,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p13.2.png"  width="600">
+<img src="{{ site.baseurl }}/files/parte2/p13.2.png"  width="600">
 
 
 </section>
@@ -312,7 +312,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p14.1.png"  width="450">
+<img src="{{ site.baseurl }}/files/parte2/p14.1.png"  width="450">
 
 
 </section>
@@ -321,7 +321,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p14.2.png">
+<img src="{{ site.baseurl }}/files/parte2/p14.2.png">
 
 
 </section>
@@ -337,7 +337,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p15.png">
+<img src="{{ site.baseurl }}/files/parte2/p15.png">
 
 
 </section>
@@ -352,7 +352,7 @@ https://github.com/OceanParcels/parcels
 
 https://github.com/OceanParcels/parcels
 
-<img src="/files/parte2/p16.png"  width="600">
+<img src="{{ site.baseurl }}/files/parte2/p16.png"  width="600">
 
 
 </section>
@@ -360,8 +360,8 @@ https://github.com/OceanParcels/parcels
 <section>
 ### Avaliação de Sustentabilidade
 
-<img src="/files/parte2/sust-mosyn-1.png"  width="400">
-<img src="/files/parte2/sust-mosyn-2.png"  width="500">
+<img src="{{ site.baseurl }}/files/parte2/sust-mosyn-1.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/sust-mosyn-2.png"  width="500">
 
 https://github.com/mpnetto/MoSyn
 </section>
@@ -371,7 +371,7 @@ https://github.com/mpnetto/MoSyn
 
 <em>F</em>indable – localizável 
 
-<img src="/files/parte2/fair-mosyn-f.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/fair-mosyn-f.png"  width="400">
 
 https://github.com/mpnetto/MoSyn
 </section>
@@ -381,7 +381,7 @@ https://github.com/mpnetto/MoSyn
 
 <em>A</em>ccessible – acessível
 
-<img src="/files/parte2/fair-mosyn-a.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/fair-mosyn-a.png"  width="400">
 
 https://github.com/mpnetto/MoSyn
 </section>
@@ -391,7 +391,7 @@ https://github.com/mpnetto/MoSyn
 
 <em>I</em>nteroperable – interoperável
 
-<img src="/files/parte2/fair-mosyn-i.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/fair-mosyn-i.png"  width="400">
 
 https://github.com/mpnetto/MoSyn
 </section>
@@ -401,7 +401,7 @@ https://github.com/mpnetto/MoSyn
 
 <em>R</em>eusable – reutilizável
 
-<img src="/files/parte2/fair-mosyn-r.png"  width="400">
+<img src="{{ site.baseurl }}/files/parte2/fair-mosyn-r.png"  width="400">
 
 https://github.com/mpnetto/MoSyn
 </section>

@@ -33,7 +33,7 @@ Federal University of São Paulo
 <section>
 ## Software Sustainability
 
-<img src="/files/2023-07-12-paper2002.png" style="background: white" style="width:100px"/>
+<img src="{{ site.baseurl }}/files/2023-07-12-paper2002.png" style="background: white" style="width:100px"/>
 
 human, social, economic, environmental, **technical**
 
@@ -87,7 +87,7 @@ ALLEN, A. et al. 2017.
 <!-- -------------------------------- -->
 
 <section>
-<img src="/files/scientific-reputation-diagram-en.png" style="background: white" />
+<img src="{{ site.baseurl }}/files/scientific-reputation-diagram-en.png" style="background: white" />
 
 <small class="cite">
 James Howison and James D. Herbsleb. 2011.
@@ -114,7 +114,7 @@ Three exploratory studies:
 <!-- -------------------------------- -->
 
 <!-- image source: http://vidracariashowglass.com.br/wp-content/gallery/vitrine-para-loja/vitrine_1.jpg -->
-<section data-background="/files/vitrine_1.jpg">
+<section data-background="{{ site.baseurl }}/files/vitrine_1.jpg">
 #### Study 1
 
 ### Publicization of Academic Software
@@ -126,7 +126,7 @@ _url, license, source code, and download availability_
 
 <section data-transition="zoom">
 <section>
-<img src="/files/revisao-literatura-big.png" />
+<img src="{{ site.baseurl }}/files/revisao-literatura-big.png" />
 
 found 60 academic software projects of static analysis
 </section>
@@ -191,7 +191,7 @@ software license, and 21 used free software license
 <!-- -------------------------------- -->
 
 <!-- image source: https://upliftconnect.com/wp-content/uploads/2016/05/Gowing-.jpg -->
-<section data-background="/files/Gowing-.jpg" data-background-color="black">
+<section data-background="{{ site.baseurl }}/files/Gowing-.jpg" data-background-color="black">
 <div class="box-green">
 #### Study 2
 
@@ -204,7 +204,7 @@ _evolution stage_
 <!-- -------------------------------- -->
 
 <section data-transition="zoom">
-<img src="/files/staged-model-foss-cycle-en.png" style="box-shadow:0px 0px 2px gray;background:white" />
+<img src="{{ site.baseurl }}/files/staged-model-foss-cycle-en.png" style="box-shadow:0px 0px 2px gray;background:white" />
 
 <small class="cite">
 CAPILUPPI, A. et al. 2007.
@@ -231,7 +231,7 @@ CAPILUPPI, A. et al. 2007.
 <!-- -------------------------------- -->
 
 <!-- image source: https://cdn-images-1.medium.com/max/2000/1*4d4rFBB97fgjZLetKypzxA.jpeg -->
-<section data-background="/files/1_4d4rFBB97fgjZLetKypzxA.jpeg">
+<section data-background="{{ site.baseurl }}/files/1_4d4rFBB97fgjZLetKypzxA.jpeg">
 #### Study 3
 
 ### Recognition of Academic Software
@@ -249,7 +249,7 @@ scientific publication
 <!-- -------------------------------- -->
 
 <section>
-<img width="100%" src="/files/study2-literature-review-big.png" style="background:white" />
+<img width="100%" src="{{ site.baseurl }}/files/study2-literature-review-big.png" style="background:white" />
 </section>
 
 <!-- -------------------------------- -->
@@ -290,7 +290,7 @@ publication
 <section>
 Evolution of the recognition of academic software for static analysis published in ASE and SCAM
 
-<img src="/files/mentions-type-by-year.png" style="box-shadow: 0px 0px 5px gray; border-radius: 5px; padding: 10px" />
+<img src="{{ site.baseurl }}/files/mentions-type-by-year.png" style="box-shadow: 0px 0px 5px gray; border-radius: 5px; padding: 10px" />
 </section>
 
 <!-- -------------------------------- -->
@@ -298,7 +298,7 @@ Evolution of the recognition of academic software for static analysis published 
 <section>
 Growth of 38% per year in the number of mentions
 
-<img src="/files/mentions-trend-en.png" style="box-shadow: 0px 0px 5px gray; border-radius: 5px; padding: 10px; display: inline" />
+<img src="{{ site.baseurl }}/files/mentions-trend-en.png" style="box-shadow: 0px 0px 5px gray; border-radius: 5px; padding: 10px; display: inline" />
 </section>
 
 <!-- -------------------------------- -->
@@ -331,11 +331,11 @@ Carole Goble. 2014. **Better software, better research**.
 <!-- -------------------------------- -->
 
 <section>
-<img src="/files/code-is-science-model-1.png" style="width: 40%;background:white;margin:0" />
+<img src="{{ site.baseurl }}/files/code-is-science-model-1.png" style="width: 40%;background:white;margin:0" />
 
 [codeisscience.com](http://www.codeisscience.com)
 
-<img width="60%" src="/files/software-carpentry-logo-shirt.png" style="width:40%;background:white;margin:0" />
+<img width="60%" src="{{ site.baseurl }}/files/software-carpentry-logo-shirt.png" style="width:40%;background:white;margin:0" />
 
 [software-carpentry.org](https://software-carpentry.org)
 </section>
