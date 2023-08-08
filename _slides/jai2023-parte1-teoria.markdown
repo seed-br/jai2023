@@ -143,6 +143,7 @@ Nieuwpoort, Rob van and Katz, Daniel S. **Defining the Roles of Research Softwar
 <section>
 ### Princípios FAIR para dados de pesquisa abertos
 princípios FAIR (findable, accessible, interoperable, and reusable – localizável, acessível, interoperável e reutilizável)
+</section>
 
 <!-- -------------------------------- -->
 <section>
@@ -153,9 +154,6 @@ princípios FAIR (findable, accessible, interoperable, and reusable – localiz�
 <small class="cite">
 https://en.unesco.org/open-access/open-access-movement.
 </small>
-
-
-
 </section>
 
 <!-- -------------------------------- -->
