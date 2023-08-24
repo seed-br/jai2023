@@ -3,6 +3,10 @@ title: Slides
 layout: page
 ---
 
+
+* SBES 2023 - Education
+   * [... Software: Yet Another Experience Report]({{ site.baseurl }}/sbes2023-education))
+
 * JAI 2023 - Ciência Aberta
    * [Parte 1]({{ site.baseurl }}/jai2023-parte1-teoria)
    * [Parte 2]({{ site.baseurl }}/jai2023-parte2-pratica)
